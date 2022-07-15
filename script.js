@@ -1,3 +1,4 @@
+// Class with Constructor
 class Calculator {
     constructor(previousOperandTextElement, currentOperandTextElement) {
         this.previousOperandTextElement = previousOperandTextElement
